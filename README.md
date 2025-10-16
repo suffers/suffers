@@ -2,7 +2,7 @@
 
 <!-- 🕹️ Pixel Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=3000&pause=800&color=7D5CCB&center=true&vCenter=true&width=435&lines=%40suffers;software+engineer;." alt="typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=3000&pause=800&color=7D5CCB&center=true&vCenter=true&width=435&lines=%40suffers;Software+Engineer;" alt="typing animation" />
 </p>
 
 ---
