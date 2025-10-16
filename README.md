@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there 👋, I'm [Your Name]
 
-<!--
-**suffers/suffers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🌱 I’m currently learning: [what you're learning]
+- 💬 Ask me about: [topics you know well]
+- 📫 How to reach me: [email/socials]
+- ⚡ Fun fact: [something interesting about you]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Languages and Tools
+[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,git)](https://skillicons.dev)
+
+## 📊 GitHub Stats
+![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
