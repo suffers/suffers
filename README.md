@@ -1,6 +1,6 @@
 <div align="center">
 
-# `[handle]`
+# `suffers`
 
 **Web3 Security Researcher**
 Smart contracts · Wallets · Protocol infrastructure
@@ -60,5 +60,5 @@ Reported through official channels under coordinated disclosure.
 ---
 
 <div align="center">
-<sub><code>[email]</code> · PGP <code>[fingerprint]</code></sub>
+<sub><code>N/A</code> · PGP <code>N/A</code></sub>
 </div>
