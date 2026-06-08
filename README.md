@@ -1,117 +1,78 @@
-<!-- README for @suffers -->
+# Hi, I'm [Your Name] 👋
 
-<!-- 🕹️ Pixel Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=3000&pause=1000&color=7D5CCB&center=true&vCenter=true&width=435&lines=%40suffers;Software+Engineer;Building+in+silence;" alt="typing animation" />
-</p>
+### Red Team Operator · Offensive Security Researcher · Bug Bounty Hunter
 
----
-
-<h3 align="center"><samp>🖤 Crafting digital solutions with clean code and thoughtful design.</samp></h3>
+I break things so they can be built stronger. I specialize in adversarial security testing — finding and responsibly disclosing vulnerabilities before malicious actors do.
 
 ---
 
-<h3>🌙 About Me</h3>
+## 🎯 What I Do
 
-- 💻 **Languages**: Python, Java, JavaScript, TypeScript, SQL
-- 🏗️ **Focus**: Backend systems, automation, and minimal design  
-- 🌒 **Philosophy**: Dark mode always, complexity never
-- ⚙️ **Approach**: Building quietly, shipping deliberately
-- 🎯 **Mission**: Turning complex challenges into elegant solutions
+- **Web & API security testing** — OWASP Top 10, business logic flaws, auth/authz bypasses
+- **Red team engagements** — adversary emulation, post-exploitation, lateral movement assessment
+- **Bug bounty hunting** — full-time, responsible disclosure across public and private programs
+- **Vulnerability research** — analysis, write-ups, and proof-of-concept development
 
-<br>
-
-<h3>⚡ Tech Arsenal</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nextjs,nodejs,sqlite,postgresql,git,linux,docker,aws,vscode&theme=dark" />
-</p>
-
-<br>
-
-<h3>🔥 Current Focus</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Next.js-16-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-5-blue?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-</p>
-
-<br>
-
-<h3>📊 Digital Footprint</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suffers&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7D5CCB&text_color=9CA3AF&icon_color=7D5CCB&ring_color=7D5CCB&hide_rank=true&custom_title=Code%20Contribution%20Metrics" alt="@suffers's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=suffers&theme=github-dark&hide_border=true&background=0D1117&ring=7D5CCB&fire=7D5CCB&currStreakLabel=9CA3AF&sideNums=9CA3AF&sideLabels=7D5CCB&stroke=7D5CCB" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suffers&layout=compact&hide_border=true&bg_color=0D1117&title_color=7D5CCB&text_color=9CA3AF&langs_count=8" />
-</p>
-
-<br>
-
-<h3>🎯 What I'm Building</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Building%20Portfolio-purple?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack-orange?style=for-the-badge&logo=code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Philosophy-Minimal%20Design-black?style=for-the-badge&logo=design&logoColor=white" />
-</p>
-
-<br>
-
-<h3>🌐 Connect</h3>
-
-<p align="center">
-  <a href="https://github.com/suffers">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-<br>
-
-<h3>💭 Philosophy</h3>
-
-<p align="center">
-  <em>"Elegance in simplicity. Power in restraint. Beauty in the minimal."</em>
-</p>
-
-<br>
-
-<h3>🎨 Current Project</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Portfolio-Next.js%20%2B%20TypeScript-black?style=for-the-badge&logo=next.js&logoColor=white" />
-</p>
-
-<p align="center">
-  <em>Building a minimalist portfolio that speaks through code, not words.</em>
-</p>
+> All testing is performed within authorized scope under program rules of engagement or signed agreements.
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=7D5CCB&section=footer" />
-</p>
+## 🛠️ Toolkit
 
-<p align="center">
-  <samp>
-    <strong>suffers</strong> • Software Engineer • Building in silence
-  </samp>
-</p>
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=suffers&color=7D5CCB&style=flat-square&label=Profile%20Views" alt="Profile views" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**Focus areas:** Recon & asset discovery · Web app & API testing · Cloud security · Mobile · Tooling automation
+
+---
+
+## 📜 Certifications
+
+- 🏅 [Certification — e.g. OSCP] *(replace or remove)*
+- 🏅 [Certification — e.g. eWPTX / CRTO / PNPT]
+- 🏅 [Certification — add yours]
+
+---
+
+## 🏆 Bug Bounty Profiles
+
+[![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/your-handle)
+[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com/your-handle)
+[![Intigriti](https://img.shields.io/badge/Intigriti-161A36?style=for-the-badge&logo=intigriti&logoColor=white)](https://app.intigriti.com/researcher/your-handle)
+
+---
+
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true)
+
+---
+
+## 📝 Writing & Research
+
+I publish write-ups on disclosed findings, methodology, and tooling:
+
+- 📄 [Blog / Medium](https://your-blog-link)
+- 📺 [YouTube / talks](https://your-channel-link)
+
+---
+
+## 📫 Get in Touch
+
+[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/your-handle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
+
+---
+
+<sub>🔐 PGP key available on request · Open to authorized engagements and program invites</sub>
